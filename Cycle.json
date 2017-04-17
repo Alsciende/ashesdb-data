@@ -1,0 +1,26 @@
+[
+    {
+        "code": "ashes",
+        "name": "Ashes: Rise of the Phoenixborn",
+        "position": 1,
+        "size": 1
+    },
+    {
+        "code": "promos",
+        "name": "Promo Cards",
+        "position": 2,
+        "size": 1
+    },
+    {
+        "code": "deck",
+        "name": "Expansion Decks",
+        "position": 3,
+        "size": 4
+    },
+    {
+        "code": "deluxe",
+        "name": "Deluxe Expansion Sets",
+        "position": 4,
+        "size": 2
+    }
+]

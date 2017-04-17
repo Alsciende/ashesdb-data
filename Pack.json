@@ -1,0 +1,66 @@
+[
+    {
+        "code": "ashes",
+        "name": "Ashes: Rise of the Phoenixborn",
+        "position": 1,
+        "size": 247,
+        "released_at": "",
+        "cycle_code": "ashes"
+    },
+    {
+        "code": "promos",
+        "name": "Promo Cards",
+        "position": 1,
+        "size": null,
+        "released_at": "",
+        "cycle_code": "promos"
+    },
+    {
+        "code": "the-children-of-blackcloud",
+        "name": "The Children of Blackcloud",
+        "position": 1,
+        "size": null,
+        "released_at": "",
+        "cycle_code": "deck"
+    },
+    {
+        "code": "the-frostdale-giants",
+        "name": "The Frostdale Giants",
+        "position": 2,
+        "size": null,
+        "released_at": "",
+        "cycle_code": "deck"
+    },
+    {
+        "code": "the-roaring-rose",
+        "name": "The Roaring Rose",
+        "position": 3,
+        "size": null,
+        "released_at": "",
+        "cycle_code": "deck"
+    },
+    {
+        "code": "the-duchess-of-deception",
+        "name": "The Duchess of Deception",
+        "position": 4,
+        "size": null,
+        "released_at": "",
+        "cycle_code": "deck"
+    },
+    {
+        "code": "the-law-of-lions",
+        "name": "The Law of Lions",
+        "position": 1,
+        "size": null,
+        "released_at": "",
+        "cycle_code": "deluxe"
+    },
+    {
+        "code": "the-song-of-soaksend",
+        "name": "The Song of Soaksend",
+        "position": 2,
+        "size": null,
+        "released_at": "",
+        "cycle_code": "deluxe"
+    }
+]
