@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "abundance",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Abundance",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion]<\/i>: All players may draw up to 2 cards. For each card they cannot or do not draw, deal 1 damage to their Phoenixborn.\n<b>Focus 1<\/b>: Reduce the damage your Phoenixborn receives from this spell by 1.\n<b>Focus 2<\/b>: Reduce the damage your Phoenixborn receives from this spell by an additional 1.",
         "type": "Ready Spell"

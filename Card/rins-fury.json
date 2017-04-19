@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "rins-fury",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Rin's Fury",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "You may select up to 5 dice in your exhausted pool, re-roll them and place them into your active pool. You may spend any number of [natural-power] just rolled to deal that much damage to a target unit or Phoenixborn.",
         "type": "Action Spell"

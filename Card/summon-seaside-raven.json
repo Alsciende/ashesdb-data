@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "summon-seaside-raven",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Summon Seaside Raven",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 3[basic]<\/i>: Place a Seaside Raven conjuration on your battlefield.",
         "type": "Ready Spell"

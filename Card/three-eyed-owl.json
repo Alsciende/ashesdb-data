@@ -1,6 +1,7 @@
 [
     {
         "attack": 1,
+        "attack_mod": null,
         "battlefield": null,
         "code": "three-eyed-owl",
         "conjuration_limit": 5,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 2,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Three-Eyed Owl",
         "placement": "Battlefield",
         "recover": 0,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<b>Memory Drain 1<\/b>: <i>[main-action] [exhaustion]<\/i>: Choose a target player to discard 1 card of their choice from their hand.",
         "type": "Conjuration"

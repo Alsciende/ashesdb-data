@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 5,
         "code": "jessa-na-ni",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 18,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 18,
         "name": "Jessa Na Ni",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 4,
         "text": "<b>Screams of the Departed<\/b>: Whenever a unit under an opponent's control leaves play, you may spend 1[basic] to deal 1 damage to their Phoenixborn.",
         "type": "Phoenixborn"

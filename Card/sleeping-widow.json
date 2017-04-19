@@ -1,6 +1,7 @@
 [
     {
         "attack": 2,
+        "attack_mod": null,
         "battlefield": null,
         "code": "sleeping-widow",
         "conjuration_limit": 6,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 1,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Sleeping Widow",
         "placement": "Battlefield",
         "recover": 0,
+        "recover_mod": null,
         "spellboard": null,
         "text": "",
         "type": "Conjuration"

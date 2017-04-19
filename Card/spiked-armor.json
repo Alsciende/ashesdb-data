@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": "",
         "battlefield": null,
         "code": "spiked-armor",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": "+2",
+        "lifepool": null,
         "name": "Spiked Armor",
         "placement": "Unit",
         "recover": null,
+        "recover_mod": "",
         "spellboard": null,
         "text": "[inexhaustible] This unit now has the following ability:\n[inexhaustible] <b>Spiked Skin 2<\/b>: When this unit is damaged by one or more attacking or countering unit, simultaneously deal 2 damage to each unit that is attacking or countering this unit.",
         "type": "Alteration Spell"

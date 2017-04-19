@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": "+2",
         "battlefield": null,
         "code": "bring-forth",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": "+1",
+        "lifepool": null,
         "name": "Bring Forth",
         "placement": "Unit",
         "recover": null,
+        "recover_mod": "",
         "spellboard": null,
         "text": "[inexhaustible] This spell can only be attached to a unit with the Illusion ability. This unit is no longer considered to have the Illusion ability.\n[inexhaustible] <b>Respark<\/b>: 2[basic]",
         "type": "Alteration Spell"

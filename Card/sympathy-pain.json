@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "sympathy-pain",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Sympathy Pain",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "Play this spell after your Phoenixborn has received damage. Deal 3 damage to a target unit or Phoenixborn.",
         "type": "Reaction Spell"

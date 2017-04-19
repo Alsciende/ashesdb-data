@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "golden-veil",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Golden Veil",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "You may play this spell when an opponent uses a spell, ability or dice power that would target a unit you control. Cancel the effects of that spell, ability or dice power.",
         "type": "Reaction Spell"

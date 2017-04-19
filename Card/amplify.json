@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": "+X",
         "battlefield": null,
         "code": "amplify",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": "+X",
+        "lifepool": null,
         "name": "Amplify",
         "placement": "Unit",
         "recover": null,
+        "recover_mod": "+X",
         "spellboard": null,
         "text": "[inexhaustible] X = the number of charm dice on this unit.\n[inexhaustible] <b>Respark<\/b>: 1[basic]",
         "type": "Alteration Spell"

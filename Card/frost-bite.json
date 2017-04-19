@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "frost-bite",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Frost Bite",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 1[natural-class]<\/i>: Deal 1 damage to a target unit or Phoenixborn.\n<b>Focus 1<\/b>: You may change the activation cost of this ability to [main-action] [exhaustion] 1[basic].",
         "type": "Ready Spell"

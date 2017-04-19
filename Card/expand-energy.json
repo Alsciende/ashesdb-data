@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "expand-energy",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Expand Energy",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion]<\/i>: Select 1 die in your exhausted pool, re-roll it, and place it into your active pool.",
         "type": "Ready Spell"

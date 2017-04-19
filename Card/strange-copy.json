@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "strange-copy",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Strange Copy",
         "placement": "Battlefield",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] When placing this spell onto your battlefield, choose a unit an opponent has in play. Place status tokens on this spell equal to the chosen unit's attack value. This spell is considered to be an ally that has an attack and life value equal to the number of status token on it, and a recover value of 0. Alterations cannot be placed on this spell.\n[inexhaustible] <b>Fleeting<\/b>: Discard this card at the end of the round.",
         "type": "Action Spell"

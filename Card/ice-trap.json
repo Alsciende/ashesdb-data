@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "ice-trap",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Ice Trap",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "You may play this spell after a unit with a life value of 2 or less comes into play. Destroy that target unit.",
         "type": "Reaction Spell"

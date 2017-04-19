@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 8,
         "code": "aradel-summergaard",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 16,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 16,
         "name": "Aradel Summergaard",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 4,
         "text": "<b>Water Blast<\/b>: <i>[side-action] [exhaustion] 1[natural-class]<\/i>: Deal 2 damage to a target unit.",
         "type": "Phoenixborn"

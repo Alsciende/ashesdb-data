@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "small-sacrifice",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Small Sacrifice",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 1[ceremonial-class]<\/i>: Deal 1 damage to a target unit on your battlefield. If you do, you may deal 1 damage to a target unit on an opponent's battlefield.\n<b>Focus 1<\/b>: If both targeted units are unexhausted, you may place 1 exhaustion token on both units instead of damage.",
         "type": "Ready Spell"

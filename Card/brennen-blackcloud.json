@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 5,
         "code": "brennen-blackcloud",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 20,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 20,
         "name": "Brennen Blackcloud",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 3,
         "text": "<b>Spirit Burn<\/b>: <i>[side-action] [exhaustion] 1[basic]<\/i>: Destroy a unit you control. If you do, you may deal 2 damage to a target unit or Phoenixborn.",
         "type": "Phoenixborn"

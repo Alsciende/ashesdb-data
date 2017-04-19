@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 4,
         "code": "lulu-firststone",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 21,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 21,
         "name": "Lulu Firststone",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 4,
         "text": "<b>Bolster<\/b>: <i>[side-action] [exhaustion] 1[basic]<\/i>: Add 1 to the attack value of all units you currently control for the remainder of this turn.",
         "type": "Phoenixborn"

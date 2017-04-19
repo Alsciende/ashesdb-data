@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "figures-fog",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Figures in the Fog",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "You may play this spell when an opponent chooses to counter with a unit they control. Prevent all damage the attacking unit or units would receive from the countering unit in this battle. ",
         "type": "Reaction Spell"

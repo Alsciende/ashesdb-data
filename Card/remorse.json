@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "remorse",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Remorse",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "You may play this spell after an opponent takes an Attack a Phoenixborn main action or Attack a unit main action. Deal 2 damage to a target Phoenixborn. The player that controls that Phoenixborn must discard 2 cards off the top of their draw pile. If they cannot, deal 1 additional damage to their Phoenixborn.",
         "type": "Reaction Spell"

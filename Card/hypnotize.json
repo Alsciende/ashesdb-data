@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "hypnotize",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Hypnotize",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[side-action] [exhaustion] 2[charm-class]<\/i>: Choose a target unit you control to gain the following ability for the remainder of the turn:\n\"Bypass: this unit cannot be blocked or guarded.\"",
         "type": "Ready Spell"

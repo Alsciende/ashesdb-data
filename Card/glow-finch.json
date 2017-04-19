@@ -1,6 +1,7 @@
 [
     {
         "attack": 0,
+        "attack_mod": null,
         "battlefield": null,
         "code": "glow-finch",
         "conjuration_limit": 1,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 2,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Glow Finch",
         "placement": "Battlefield",
         "recover": 1,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<b>Unit Guard<\/b>: This unit may guard a unit that is being attacked.\n<b>Decoy<\/b>: When a unit you control would become the target of a spell, ability or dice power, and this unit could have been chosen as that target, you may place 1 exhaustion token on this unit to change the chosen target to be this unit instead.\n[inexhaustible] <b>Last Request 1<\/b>: When this unit is destroyed, discard 1 card off the top of a target player's draw pile.\n[inexhaustible] <b>Magic Rejuvenation<\/b>: <i>[side-action]<\/i>: Remove an alteration spell attached to this unit from the game. If you do, remove all exhaustion token from this unit.",
         "type": "Conjuration"

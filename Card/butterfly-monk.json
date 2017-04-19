@@ -1,6 +1,7 @@
 [
     {
         "attack": 1,
+        "attack_mod": null,
         "battlefield": null,
         "code": "butterfly-monk",
         "conjuration_limit": 5,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": true,
-        "life": 0,
+        "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Butterfly Monk",
         "placement": "Battlefield",
         "recover": 1,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<b>Unit Guard<\/b>: This unit may guard a unit that is being attacked.\n[inexhaustible] <b>Last Blessing 1<\/b>: when this unit is destroyed, remove 1 wound token from a target unit or Phoenixborn.\n[inexhaustible] X = The number of Summon Butterfly Monk spells on your spellboard.",
         "type": "Conjuration"

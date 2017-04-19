@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "summon-nightshade-swallow",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Summon Nightshade Swallow",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 2[charm-class]<\/i>: Place a Nightshade Swallow conjuration onto your battlefield.\n<b>Focus 1<\/b>: You may choose a target player to discard 1 card off the top of their draw pile if you have fewer dice in your active pool than an opponent.",
         "type": "Ready Spell"

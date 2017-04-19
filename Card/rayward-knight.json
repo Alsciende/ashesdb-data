@@ -1,6 +1,7 @@
 [
     {
         "attack": 3,
+        "attack_mod": null,
         "battlefield": null,
         "code": "rayward-knight",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 3,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Rayward Knight",
         "placement": "Battlefield",
         "recover": 3,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] <b>Endurance<\/b>: Remove all exhaustion tokens from this unit at the end of the round.",
         "type": "Ally"

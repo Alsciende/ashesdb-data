@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "chant-dead",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Chant of the Dead",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] When an ally you  control is destroyed, you may place 1 status token on this spell.\nDuring your turn, if this spell has 3 or more status tokens on it, you may discard this spell to select 3 dice in your exhausted pool and place them into your active pool on a side of your choice.",
         "type": "Ready Spell"

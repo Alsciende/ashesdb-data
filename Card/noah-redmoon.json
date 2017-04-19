@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 6,
         "code": "noah-redmoon",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 20,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 20,
         "name": "Noah Redmoon",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 3,
         "text": "<b>Shadow Target<\/b>: <i>[side-action] [exhaustion] 1[ceremonial-class]<\/i>: Place 1 exhaustion token on a target ready spell on an opponent's spellboard.",
         "type": "Phoenixborn"

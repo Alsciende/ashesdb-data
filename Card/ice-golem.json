@@ -1,6 +1,7 @@
 [
     {
         "attack": 3,
+        "attack_mod": null,
         "battlefield": null,
         "code": "ice-golem",
         "conjuration_limit": 3,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 2,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Ice Golem",
         "placement": "Battlefield",
         "recover": 0,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] <b>Skin Morph 2<\/b>: Add 2 to this unit's life value if it has 1 or more alteration spells attached to it.",
         "type": "Conjuration"

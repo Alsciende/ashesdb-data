@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": "",
         "battlefield": null,
         "code": "poison",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": "",
+        "lifepool": null,
         "name": "Poison",
         "placement": "Unit",
         "recover": null,
+        "recover_mod": "",
         "spellboard": null,
         "text": "[inexhaustible] After you take a main action other than pass, deal 1 damage to this unit.",
         "type": "Alteration Spell"

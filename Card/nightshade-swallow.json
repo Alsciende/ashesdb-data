@@ -1,6 +1,7 @@
 [
     {
         "attack": 1,
+        "attack_mod": null,
         "battlefield": null,
         "code": "nightshade-swallow",
         "conjuration_limit": 5,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 2,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Nightshade Swallow",
         "placement": "Battlefield",
         "recover": 1,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<b>Deathstrike<\/b>: When this unit deals 1 or more damage to a unit it is attacking or countering, destroy the unit that received damage.",
         "type": "Conjuration"

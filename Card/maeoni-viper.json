@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 3,
         "code": "maeoni-viper",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 22,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 22,
         "name": "Maeoni Viper",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 4,
         "text": "<b>Strike<\/b>: After a player has declared attackers, you may spend 1[basic] and place an exhaustion token on this card. If you do, add 2 to a target unit's attack value for the remainder of this turn.",
         "type": "Phoenixborn"

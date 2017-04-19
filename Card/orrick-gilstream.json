@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 5,
         "code": "orrick-gilstream",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 19,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 19,
         "name": "Orrick Gilstream",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 4,
         "text": "<b>Bounty<\/b>: <i>[side-action] [exhaustion] 2[basic]<\/i>: Select up to 4 dice in your exhausted pool. They must all be different types. Re-roll them, and place them into your active pool.",
         "type": "Phoenixborn"

@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "dispel",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Dispel",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "Remove 2 status tokens from a target card or choose a target alteration spell. If that alteration spell is a conjured alteration spell, return it to its owner's conjuration pile. Otherwise, shuffle it into its owner's draw pile.",
         "type": "Action Spell"

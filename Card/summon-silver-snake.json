@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "summon-silver-snake",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Summon Silver Snake",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 1[charm-power] 1[natural-power]<\/i>: Place a Silver Snake conjuration onto your battlefield.\n<b>Focus 1<\/b>: Place 1 status token on that Silver Snake.\n<b>Focus 2<\/b>: Place 1 additional status token on that Silver Snake.\n[inexhaustible] <b>Spell Guard<\/b>: This spell cannot be affected by an opponent's spell.",
         "type": "Ready Spell"

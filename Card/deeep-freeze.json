@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": "",
         "battlefield": null,
         "code": "deeep-freeze",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": "",
+        "lifepool": null,
         "name": "Deeep Freeze",
         "placement": "Unit",
         "recover": null,
+        "recover_mod": "",
         "spellboard": null,
         "text": "[inexhaustible] When attaching this spell, place 3 status tokens on this spell. Discard this spell when it no longer has any status token on it. As long as this spell is attached to this unit. This unit is considered to be exhausted.\n[inexhaustible] This unit now has the following ability:\n[inexhaustible] \"Thaw: [side-action]: Remove 1 status token from a Deep Freeze alteration spell attached to this unit.\"",
         "type": "Alteration Spell"

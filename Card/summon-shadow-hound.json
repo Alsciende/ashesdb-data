@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "summon-shadow-hound",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Summon Shadow Hound",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 3[illusion-class]<\/i>: Place a Shadow Hound conjuration onto your battlefield.\n<b>Focus 1<\/b>: You may deal 1 damage to a target unit.\n<b>Focus 2<\/b>: Then you may deal 1 damage to a target unit.",
         "type": "Ready Spell"

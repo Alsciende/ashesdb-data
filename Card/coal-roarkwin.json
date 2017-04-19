@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 6,
         "code": "coal-roarkwin",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 15,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 15,
         "name": "Coal Roarkwin",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 5,
         "text": "<b>Slash<\/b>: <i>[side-action] 1[discard]<\/i>: Deal 1 damage to a target unit. If an opponent has no units in play, you may deal 1 damage to their Phoenixborn instead.",
         "type": "Phoenixborn"

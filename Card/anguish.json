@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "anguish",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Anguish",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "Choose a target Phoenixborn. Its controlling player may discard 1 card at random from their hand. If they do not or cannot, place 2 wound tokens on that Phoenixborn. Then choose a target Phoenixborn. Its controlling player may move 2 dice of your choice from their active pool to their exhausted pool. If they do not or cannot, plate 2 wound tokens on that Phoenixborn.",
         "type": "Action Spell"

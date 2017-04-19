@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "chant-protection",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Chant of Protection",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] When this spell comes into play, place 3 status tokens on it. Discard this spell when it no longer has any status tokens on it.\nWhen your Phoenixborn would receive damage, you may remove any number of status tokens from this spell. For each status token removed, prevent 1 damage to your Phoenixborn.",
         "type": "Ready Spell"

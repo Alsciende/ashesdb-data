@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "summon-ice-golem",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Summon Ice Golem",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 2[natural-class] 1[basic]<\/i>: Place an Ice Golem conjuration onto your battlefield.\n<b>Focus 2<\/b>: You may remove 1 wound token from all Ice Golems you control.",
         "type": "Ready Spell"

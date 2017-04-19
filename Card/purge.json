@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "purge",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Purge",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 1[charm-class]<\/i>: Choose a target player to discard 1 card off the top of their draw pile.\n<b>Focus 1<\/b>: You may pay 1[basic] to have the target player discard 1 additional card.",
         "type": "Ready Spell"

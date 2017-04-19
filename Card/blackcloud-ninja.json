@@ -1,6 +1,7 @@
 [
     {
         "attack": 3,
+        "attack_mod": null,
         "battlefield": null,
         "code": "blackcloud-ninja",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 2,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Blackcloud Ninja",
         "placement": "Battlefield",
         "recover": 2,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<b>Seal Strike 1<\/b>: When this unit comes into play, you may spend 1[basic] to place 1 exhaustion token on a target ready spell.\n<b>Shadow Strike 2<\/b>: <i>[main-action] [exhaustion]<\/i>: Deal 2 damage to a target unit.",
         "type": "Ally"

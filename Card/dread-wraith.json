@@ -1,6 +1,7 @@
 [
     {
         "attack": 1,
+        "attack_mod": null,
         "battlefield": null,
         "code": "dread-wraith",
         "conjuration_limit": 2,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 6,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Dread Wraith",
         "placement": "Battlefield",
         "recover": 0,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] <b>Rage 1<\/b>: Add 1 to this unit's attack value for each wound token on this unit.",
         "type": "Conjuration"

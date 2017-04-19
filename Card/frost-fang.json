@@ -1,6 +1,7 @@
 [
     {
         "attack": 1,
+        "attack_mod": null,
         "battlefield": null,
         "code": "frost-fang",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 1,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Frost Fang",
         "placement": "Battlefield",
         "recover": 1,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] <b>Rapid Healing 1<\/b>: When this unit would receive damage, you may spend any number of [basic]. For each [basic] spent, prevent 1 damage.\n<b>Battle Advantage<\/b>: When this unit is in battle, it deals its damage before other units with Battle Advantage deal their damage.",
         "type": "Ally"

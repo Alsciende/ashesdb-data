@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "summon-dread-wraith",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Summon Dread Wraith",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 3[ceremonial-class]<\/i>: Place a Dread Wraith conjuration onto your battlefield.\n<b>Focus 2<\/b>: You may remove 1 exhaustion token from a Dread Wraith you control.",
         "type": "Ready Spell"

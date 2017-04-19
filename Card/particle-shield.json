@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "particle-shield",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Particle Shield",
         "placement": "Discard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "You may play this spell when a unit you control would receive 1 or more damage. This spell may be played even if you have already played reactions spell this turn. Prevent 1 damage to that unit. Shuffle this card into your draw pile.",
         "type": "Reaction Spell"

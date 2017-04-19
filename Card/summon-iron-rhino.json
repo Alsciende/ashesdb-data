@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "summon-iron-rhino",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Summon Iron Rhino",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 6[basic]<\/i>: Place an Iron Rhino conjuration onto your battlefield.\n<b>Focus 1<\/b>: Reduce the activation cost of this spell by 1[basic].\n<b>Focus 2<\/b>: Reduce the activation cost of this spell by an additional 1[basic].",
         "type": "Ready Spell"

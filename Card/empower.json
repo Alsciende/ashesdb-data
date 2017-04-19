@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "empower",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Empower",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "After a player has declared attackers, you may spend 1[basic] and place 1 exhaustion token on this spell. If you do, add 1 to a target unit's attack value for the remainder of this turn.\nIn addition, you may draw 1 card. If you do, discard 1 card.\n<b>Focus 1<\/b>: In addition, you may select 1 die in your exhausted pool, re-roll it, and place it into your active pool.",
         "type": "Ready Spell"

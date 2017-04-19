@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": 6,
         "code": "rin-northfell",
         "conjuration_limit": null,
@@ -19,10 +20,13 @@
         "is_spell_reactive": false,
         "is_spell_ready": false,
         "is_unit": false,
-        "life": 17,
+        "life": null,
+        "life_mod": null,
+        "lifepool": 17,
         "name": "Rin Northfell",
         "placement": null,
         "recover": null,
+        "recover_mod": null,
         "spellboard": 4,
         "text": "<b>Ice Buff<\/b>: <i>[side-action] [exhaustion]<\/i>: Attach an Ice Buff conjured alteration spell to a target unit you control.",
         "type": "Phoenixborn"

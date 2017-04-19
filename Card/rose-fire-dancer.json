@@ -1,6 +1,7 @@
 [
     {
         "attack": 3,
+        "attack_mod": null,
         "battlefield": null,
         "code": "rose-fire-dancer",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 1,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Rose Fire Dancer",
         "placement": "Battlefield",
         "recover": 0,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<b>Distract<\/b>: <i>[side-action] [exhaustion]<\/i>: Place 1 exhaustion token on a target unit.",
         "type": "Ally"

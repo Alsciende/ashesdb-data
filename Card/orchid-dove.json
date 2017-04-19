@@ -1,6 +1,7 @@
 [
     {
         "attack": 1,
+        "attack_mod": null,
         "battlefield": null,
         "code": "orchid-dove",
         "conjuration_limit": 5,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 1,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Orchid Dove",
         "placement": "Battlefield",
         "recover": 0,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] <b>Peaceful Melody<\/b>: Your opponents cannot take an Attack a Phoenixborn main action or Attack a Unit main action. During their turn, an opponent may spend 1[basic]. If they do, all units are no longer considered to have the Peaceful Melody ability for the remainder of that turn.",
         "type": "Conjuration"

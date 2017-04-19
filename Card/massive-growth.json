@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": "+4",
         "battlefield": null,
         "code": "massive-growth",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": "+4",
+        "lifepool": null,
         "name": "Massive Growth",
         "placement": "Unit",
         "recover": null,
+        "recover_mod": "",
         "spellboard": null,
         "text": "[inexhaustible] This spell can only be attached to a unit with an attack value of 2 or less.\n[inexhaustible] <b>Spell Guard<\/b>: This spell cannot be affected by an opponent's spell.\n[inexhaustible] <b>Fleeting<\/b>: Discard this card at the end of the round.",
         "type": "Alteration Spell"

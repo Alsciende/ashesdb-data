@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "blood-transfer",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Blood Transfer",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[side-action] [exhaustion] 1[ceremonial-class] 1[charm-class]<\/i>: Deal 2 damage to a target unit you control. If you do, you may remove 2 wound tokens from another unit you control or remove 1 wound token from your Phoenixborn.",
         "type": "Ready Spell"

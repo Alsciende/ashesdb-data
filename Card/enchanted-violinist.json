@@ -1,6 +1,7 @@
 [
     {
         "attack": 1,
+        "attack_mod": null,
         "battlefield": null,
         "code": "enchanted-violinist",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 2,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Enchanted Violinist",
         "placement": "Battlefield",
         "recover": 0,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<b>Song of Sorrow<\/b>: After an opponent discards 1 or more cards from their draw pile, you may spend 1[basic] to place 1 wound token on a target unit.",
         "type": "Ally"

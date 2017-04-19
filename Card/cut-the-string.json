@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "cut-the-string",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Cut the String",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[side-action] [exhaustion] 1[ceremonial-class] 1[basic] Deal 2 damage to a unit you control. If you do, you may discard a target alteration spell.",
         "type": "Ready Spell"

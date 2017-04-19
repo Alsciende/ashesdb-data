@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "strengthen",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Strengthen",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[side-action] [exhaustion]<\/i>: Add 2 to a target unit's attack value for the remainder of the turn.\n<b>Focus 2<\/b>: Add 1 more to that unit's attack value for the remainder of the turn.",
         "type": "Ready Spell"

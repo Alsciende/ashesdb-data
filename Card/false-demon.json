@@ -1,6 +1,7 @@
 [
     {
         "attack": 1,
+        "attack_mod": null,
         "battlefield": null,
         "code": "false-demon",
         "conjuration_limit": 5,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 4,
+        "life_mod": null,
+        "lifepool": null,
         "name": "False Demon",
         "placement": "Battlefield",
         "recover": 0,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<b>Unit Guard<\/b>: This unit may guard a unit that is being attacked.\n[inexhaustible] <b>Illusion<\/b>: If this unit receives damage as a result of a unit's attack or counter, destroy this unit.",
         "type": "Conjuration"

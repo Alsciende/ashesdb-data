@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": "",
         "battlefield": null,
         "code": "body-inversion",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": "",
+        "lifepool": null,
         "name": "Body Inversion",
         "placement": "Unit",
         "recover": null,
+        "recover_mod": "",
         "spellboard": null,
         "text": "This spell cannot be attached to a unit that already has a spell with the word \"Inversion\" in its title attached to it.\nWhen attaching this spell to a unit that has the Illusion ability, the player that played this spell may select 2 Illusion dice in their exhausted pool and place them into their active pool on a side of their choice.\n[inexhaustible] Switch this unit's printed attack and life values.",
         "type": "Alteration Spell"

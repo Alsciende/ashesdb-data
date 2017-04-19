@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": "+3",
         "battlefield": null,
         "code": "frozen-crown",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": false,
         "life": null,
+        "life_mod": "",
+        "lifepool": null,
         "name": "Frozen Crown",
         "placement": "Unit",
         "recover": null,
+        "recover_mod": "",
         "spellboard": null,
         "text": "",
         "type": "Alteration Spell"

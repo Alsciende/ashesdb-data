@@ -1,6 +1,7 @@
 [
     {
         "attack": null,
+        "attack_mod": null,
         "battlefield": null,
         "code": "summon-orchid-dove",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": true,
         "is_unit": false,
         "life": null,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Summon Orchid Dove",
         "placement": "Spellboard",
         "recover": null,
+        "recover_mod": null,
         "spellboard": null,
         "text": "<i>[main-action] [exhaustion] 1[charm-class]<\/i>: Place an Orchid Dove conjuration onto your battlefield.\n<b>Focus 1<\/b>: You may change the activation cost of this spell to [main-action] [exhaustion] 1[basic]\n<b>Focus 2<\/b>: You may deal 1 damage to a target player's Phoenixborn if they do not have any cards in their draw pile.",
         "type": "Ready Spell"

@@ -1,6 +1,7 @@
 [
     {
         "attack": 2,
+        "attack_mod": null,
         "battlefield": null,
         "code": "iron-worker",
         "conjuration_limit": null,
@@ -20,9 +21,12 @@
         "is_spell_ready": false,
         "is_unit": true,
         "life": 2,
+        "life_mod": null,
+        "lifepool": null,
         "name": "Iron Worker",
         "placement": "Battlefield",
         "recover": 1,
+        "recover_mod": null,
         "spellboard": null,
         "text": "[inexhaustible] <b>Resourceful 1<\/b>: When this unit comes into play, place 1 status token on this unit. At the beginning of the player turns phase, place 1 status token on this unit.\n[inexhaustible] <b>Overtime<\/b>: Anytime during your turn, you may remove any number of status tokens from this unit. For each status token removed, you may take 1 additional side action this turn.",
         "type": "Ally"
