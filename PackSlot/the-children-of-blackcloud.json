@@ -1,0 +1,50 @@
+[
+    {
+        "card_code": "brennen-blackcloud",
+        "quantity": 1
+    },
+    {
+        "card_code": "blood-chains",
+        "quantity": 3
+    },
+    {
+        "card_code": "blackcloud-ninja",
+        "quantity": 3
+    },
+    {
+        "card_code": "chant-protection",
+        "quantity": 3
+    },
+    {
+        "card_code": "chant-dead",
+        "quantity": 3
+    },
+    {
+        "card_code": "choke",
+        "quantity": 3
+    },
+    {
+        "card_code": "crimson-bomber",
+        "quantity": 3
+    },
+    {
+        "card_code": "fire-archer",
+        "quantity": 3
+    },
+    {
+        "card_code": "poison",
+        "quantity": 3
+    },
+    {
+        "card_code": "regress",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-dread-wraith",
+        "quantity": 3
+    },
+    {
+        "card_code": "dread-wraith",
+        "quantity": 2
+    }
+]

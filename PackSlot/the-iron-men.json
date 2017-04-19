@@ -1,0 +1,50 @@
+[
+    {
+        "card_code": "coal-roarkwin",
+        "quantity": 1
+    },
+    {
+        "card_code": "anchornaut",
+        "quantity": 3
+    },
+    {
+        "card_code": "chant-revenge",
+        "quantity": 3
+    },
+    {
+        "card_code": "expand-energy",
+        "quantity": 3
+    },
+    {
+        "card_code": "hammer-knight",
+        "quantity": 3
+    },
+    {
+        "card_code": "iron-worker",
+        "quantity": 3
+    },
+    {
+        "card_code": "one-hundred-blades",
+        "quantity": 3
+    },
+    {
+        "card_code": "protect",
+        "quantity": 3
+    },
+    {
+        "card_code": "spiked-armor",
+        "quantity": 3
+    },
+    {
+        "card_code": "strengthen",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-iron-rhino",
+        "quantity": 3
+    },
+    {
+        "card_code": "iron-rhino",
+        "quantity": 5
+    }
+]

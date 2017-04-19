@@ -1,0 +1,54 @@
+[
+    {
+        "card_code": "maeoni-viper",
+        "quantity": 1
+    },
+    {
+        "card_code": "call-upon-the-realms",
+        "quantity": 3
+    },
+    {
+        "card_code": "empower",
+        "quantity": 3
+    },
+    {
+        "card_code": "golden-veil",
+        "quantity": 3
+    },
+    {
+        "card_code": "hypnotize",
+        "quantity": 3
+    },
+    {
+        "card_code": "molten-gold",
+        "quantity": 3
+    },
+    {
+        "card_code": "open-memories",
+        "quantity": 3
+    },
+    {
+        "card_code": "refresh",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-gilder",
+        "quantity": 3
+    },
+    {
+        "card_code": "gilder",
+        "quantity": 5
+    },
+    {
+        "card_code": "summon-silver-snake",
+        "quantity": 3
+    },
+    {
+        "card_code": "silver-snake",
+        "quantity": 3
+    },
+    {
+        "card_code": "transfer",
+        "quantity": 3
+    }
+]

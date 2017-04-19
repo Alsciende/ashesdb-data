@@ -1,0 +1,58 @@
+[
+    {
+        "card_code": "noah-redmoon",
+        "quantity": 1
+    },
+    {
+        "card_code": "bound-soul",
+        "quantity": 3
+    },
+    {
+        "card_code": "bring-forth",
+        "quantity": 3
+    },
+    {
+        "card_code": "fade-away",
+        "quantity": 3
+    },
+    {
+        "card_code": "shadow-counter",
+        "quantity": 3
+    },
+    {
+        "card_code": "sleight-hand",
+        "quantity": 3
+    },
+    {
+        "card_code": "small-sacrifice",
+        "quantity": 3
+    },
+    {
+        "card_code": "stormwind-sniper",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-false-demon",
+        "quantity": 3
+    },
+    {
+        "card_code": "false-demon",
+        "quantity": 5
+    },
+    {
+        "card_code": "summon-masked-wolf",
+        "quantity": 3
+    },
+    {
+        "card_code": "masked-wolf",
+        "quantity": 5
+    },
+    {
+        "card_code": "summon-sleeping-widows",
+        "quantity": 3
+    },
+    {
+        "card_code": "sleeping-widow",
+        "quantity": 6
+    }
+]

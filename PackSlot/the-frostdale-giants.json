@@ -1,0 +1,58 @@
+[
+    {
+        "card_code": "rin-northfell",
+        "quantity": 1
+    },
+    {
+        "card_code": "ice-buff",
+        "quantity": 5
+    },
+    {
+        "card_code": "crystal-shield",
+        "quantity": 3
+    },
+    {
+        "card_code": "deeep-freeze",
+        "quantity": 3
+    },
+    {
+        "card_code": "freezing-blast",
+        "quantity": 3
+    },
+    {
+        "card_code": "frost-bite",
+        "quantity": 3
+    },
+    {
+        "card_code": "frost-fang",
+        "quantity": 3
+    },
+    {
+        "card_code": "frozen-crown",
+        "quantity": 3
+    },
+    {
+        "card_code": "ice-trap",
+        "quantity": 3
+    },
+    {
+        "card_code": "rins-fury",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-frostback-bear",
+        "quantity": 3
+    },
+    {
+        "card_code": "frostback-bear",
+        "quantity": 4
+    },
+    {
+        "card_code": "summon-ice-golem",
+        "quantity": 3
+    },
+    {
+        "card_code": "ice-golem",
+        "quantity": 3
+    }
+]

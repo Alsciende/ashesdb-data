@@ -1,0 +1,54 @@
+[
+    {
+        "card_code": "saria-guideman",
+        "quantity": 1
+    },
+    {
+        "card_code": "abundance",
+        "quantity": 3
+    },
+    {
+        "card_code": "enchanted-violinist",
+        "quantity": 3
+    },
+    {
+        "card_code": "hidden-power",
+        "quantity": 3
+    },
+    {
+        "card_code": "purge",
+        "quantity": 3
+    },
+    {
+        "card_code": "rose-fire-dancer",
+        "quantity": 3
+    },
+    {
+        "card_code": "seal",
+        "quantity": 3
+    },
+    {
+        "card_code": "strange-copy",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-seaside-raven",
+        "quantity": 3
+    },
+    {
+        "card_code": "seaside-raven",
+        "quantity": 2
+    },
+    {
+        "card_code": "summon-three-eyed-owl",
+        "quantity": 3
+    },
+    {
+        "card_code": "three-eyed-owl",
+        "quantity": 5
+    },
+    {
+        "card_code": "sympathy-pain",
+        "quantity": 3
+    }
+]

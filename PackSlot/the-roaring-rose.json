@@ -1,0 +1,58 @@
+[
+    {
+        "card_code": "leo-sunshadow",
+        "quantity": 1
+    },
+    {
+        "card_code": "glow-finch",
+        "quantity": 1
+    },
+    {
+        "card_code": "amplify",
+        "quantity": 3
+    },
+    {
+        "card_code": "anguish",
+        "quantity": 3
+    },
+    {
+        "card_code": "beast-tamer",
+        "quantity": 3
+    },
+    {
+        "card_code": "change-psyche",
+        "quantity": 3
+    },
+    {
+        "card_code": "dispel",
+        "quantity": 3
+    },
+    {
+        "card_code": "memory-theft",
+        "quantity": 3
+    },
+    {
+        "card_code": "mind-probe",
+        "quantity": 3
+    },
+    {
+        "card_code": "remorse",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-nightshade-swallow",
+        "quantity": 3
+    },
+    {
+        "card_code": "nightshade-swallow",
+        "quantity": 5
+    },
+    {
+        "card_code": "summon-orchid-dove",
+        "quantity": 3
+    },
+    {
+        "card_code": "orchid-dove",
+        "quantity": 5
+    }
+]

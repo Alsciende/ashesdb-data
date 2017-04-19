@@ -1,0 +1,82 @@
+[
+    {
+        "source_code": "summon-blue-jaguar",
+        "unit_code": "blue-jaguar"
+    },
+    {
+        "source_code": "summon-butterfly-monk",
+        "unit_code": "butterfly-monk"
+    },
+    {
+        "source_code": "summon-mist-spirit",
+        "unit_code": "mist-spirit"
+    },
+    {
+        "source_code": "summon-iron-rhino",
+        "unit_code": "iron-rhino"
+    },
+    {
+        "source_code": "summon-blood-puppet",
+        "unit_code": "blood-puppet"
+    },
+    {
+        "source_code": "summon-gilder",
+        "unit_code": "gilder"
+    },
+    {
+        "source_code": "summon-silver-snake",
+        "unit_code": "silver-snake"
+    },
+    {
+        "source_code": "summon-false-demon",
+        "unit_code": "false-demon"
+    },
+    {
+        "source_code": "summon-masked-wolf",
+        "unit_code": "masked-wolf"
+    },
+    {
+        "source_code": "summon-seaside-raven",
+        "unit_code": "seaside-raven"
+    },
+    {
+        "source_code": "summon-three-eyed-owl",
+        "unit_code": "three-eyed-owl"
+    },
+    {
+        "source_code": "summon-dread-wraith",
+        "unit_code": "dread-wraith"
+    },
+    {
+        "source_code": "summon-frostback-bear",
+        "unit_code": "frostback-bear"
+    },
+    {
+        "source_code": "summon-ice-golem",
+        "unit_code": "ice-golem"
+    },
+    {
+        "source_code": "summon-nightshade-swallow",
+        "unit_code": "nightshade-swallow"
+    },
+    {
+        "source_code": "summon-orchid-dove",
+        "unit_code": "orchid-dove"
+    },
+    {
+        "source_code": "summon-shadow-hound",
+        "unit_code": "shadow-hound"
+    },
+    {
+        "source_code": "summon-shadow-spirit",
+        "unit_code": "shadow-spirit"
+    },
+    {
+        "source_code": "leo-sunshadow",
+        "unit_code": "glow-finch"
+    },
+    {
+        "source_code": "summon-sleeping-widows",
+        "unit_code": "sleeping-widow"
+    }
+]

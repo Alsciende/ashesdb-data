@@ -1,0 +1,58 @@
+[
+    {
+        "card_code": "aradel-summergaard",
+        "quantity": 1
+    },
+    {
+        "card_code": "massive-growth",
+        "quantity": 3
+    },
+    {
+        "card_code": "mist-typhoon",
+        "quantity": 3
+    },
+    {
+        "card_code": "out-mist",
+        "quantity": 3
+    },
+    {
+        "card_code": "reflections-water",
+        "quantity": 3
+    },
+    {
+        "card_code": "root-armor",
+        "quantity": 3
+    },
+    {
+        "card_code": "shifting-mist",
+        "quantity": 3
+    },
+    {
+        "card_code": "steady-gaze",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-blue-jaguar",
+        "quantity": 3
+    },
+    {
+        "card_code": "blue-jaguar",
+        "quantity": 5
+    },
+    {
+        "card_code": "summon-butterfly-monk",
+        "quantity": 3
+    },
+    {
+        "card_code": "butterfly-monk",
+        "quantity": 5
+    },
+    {
+        "card_code": "summon-mist-spirit",
+        "quantity": 3
+    },
+    {
+        "card_code": "mist-spirit",
+        "quantity": 10
+    }
+]

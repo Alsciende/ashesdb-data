@@ -1,0 +1,26 @@
+[
+    {
+        "card_code": "dimona-odinstar",
+        "quantity": 1
+    },
+    {
+        "card_code": "rayward-knight",
+        "quantity": 3
+    },
+    {
+        "card_code": "lulu-firststone",
+        "quantity": 1
+    },
+    {
+        "card_code": "phoenix-barrage",
+        "quantity": 3
+    },
+    {
+        "card_code": "orrick-gilstream",
+        "quantity": 1
+    },
+    {
+        "card_code": "gobi-sunshield",
+        "quantity": 3
+    }
+]

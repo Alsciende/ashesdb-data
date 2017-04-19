@@ -1,0 +1,50 @@
+[
+    {
+        "card_code": "jessa-na-ni",
+        "quantity": 1
+    },
+    {
+        "card_code": "blood-archer",
+        "quantity": 3
+    },
+    {
+        "card_code": "blood-transfer",
+        "quantity": 3
+    },
+    {
+        "card_code": "cut-the-string",
+        "quantity": 3
+    },
+    {
+        "card_code": "fear",
+        "quantity": 3
+    },
+    {
+        "card_code": "final-cry",
+        "quantity": 3
+    },
+    {
+        "card_code": "leech-warrior",
+        "quantity": 3
+    },
+    {
+        "card_code": "living-doll",
+        "quantity": 3
+    },
+    {
+        "card_code": "redirect",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-blood-puppet",
+        "quantity": 3
+    },
+    {
+        "card_code": "blood-puppet",
+        "quantity": 5
+    },
+    {
+        "card_code": "undying-heart",
+        "quantity": 3
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "card_code": "victoria-glassfire",
+        "quantity": 1
+    },
+    {
+        "card_code": "body-inversion",
+        "quantity": 3
+    },
+    {
+        "card_code": "figures-fog",
+        "quantity": 3
+    },
+    {
+        "card_code": "flash-archer",
+        "quantity": 3
+    },
+    {
+        "card_code": "illusionary-cycle",
+        "quantity": 3
+    },
+    {
+        "card_code": "particle-shield",
+        "quantity": 3
+    },
+    {
+        "card_code": "secret-door",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-shadow-hound",
+        "quantity": 3
+    },
+    {
+        "card_code": "shadow-hound",
+        "quantity": 3
+    },
+    {
+        "card_code": "summon-shadow-spirit",
+        "quantity": 3
+    },
+    {
+        "card_code": "shadow-spirit",
+        "quantity": 4
+    },
+    {
+        "card_code": "shadows",
+        "quantity": 3
+    },
+    {
+        "card_code": "vanish",
+        "quantity": 3
+    }
+]
