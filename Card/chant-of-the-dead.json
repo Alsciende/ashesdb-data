@@ -3,7 +3,7 @@
         "attack": null,
         "attack_mod": null,
         "battlefield": null,
-        "code": "chant-revenge",
+        "code": "chant-of-the-dead",
         "conjuration_limit": null,
         "cost": "[main-action] 1[ceremonial-class]",
         "dice_ceremonial": 1,
@@ -23,12 +23,12 @@
         "life": null,
         "life_mod": null,
         "lifepool": null,
-        "name": "Chant of Revenge",
+        "name": "Chant of the Dead",
         "placement": "Spellboard",
         "recover": null,
         "recover_mod": null,
         "spellboard": null,
-        "text": "Whenever a unit you control is destroyed, you may place 1 exhaustion token on this spell to deal 1 damage to a target unit or Phoenixborn.",
+        "text": "[inexhaustible] When an ally you  control is destroyed, you may place 1 status token on this spell.\nDuring your turn, if this spell has 3 or more status tokens on it, you may discard this spell to select 3 dice in your exhausted pool and place them into your active pool on a side of your choice.",
         "type": "Ready Spell"
     }
 ]
