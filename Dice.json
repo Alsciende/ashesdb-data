@@ -1,0 +1,26 @@
+[
+    {
+        "code": "ceremonial",
+        "name": "Ceremonial"
+    },
+    {
+        "code": "charm",
+        "name": "Charm"
+    },
+    {
+        "code": "divine",
+        "name": "Divine"
+    },
+    {
+        "code": "illusion",
+        "name": "Illusion"
+    },
+    {
+        "code": "natural",
+        "name": "Natural"
+    },
+    {
+        "code": "sympathy",
+        "name": "Sympathy"
+    }
+]

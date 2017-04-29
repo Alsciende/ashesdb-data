@@ -1,0 +1,494 @@
+[
+    {
+        "card_code": "abundance",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "amplify",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "aradel-summergaard",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "beast-tamer",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "blackcloud-ninja",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "blood-archer",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "blood-archer",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "blood-chains",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "blood-puppet",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "blood-transfer",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "blood-transfer",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "body-inversion",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "bound-soul",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "bring-forth",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "butterfly-monk",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "change-psyche",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "chant-of-revenge",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "chant-of-the-dead",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "choke",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "crimson-bomber",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "crystal-shield",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "cut-the-string",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "deeep-freeze",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "dread-wraith",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "empower",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "expand-energy",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "fade-away",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "false-demon",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "figures-in-the-fog",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "final-cry",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "fire-archer",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "flash-archer",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "freezing-blast",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "frost-bite",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "frost-fang",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "frostback-bear",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "frozen-crown",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "gilder",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "gilder",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "golden-veil",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "golden-veil",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "hammer-knight",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "hammer-knight",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "hidden-power",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "hypnotize",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "ice-golem",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "ice-trap",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "illusionary-cycle",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "iron-rhino",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "leech-warrior",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "living-doll",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "living-doll",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "masked-wolf",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "massive-growth",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "memory-theft",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "mind-probe",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "mist-spirit",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "mist-typhoon",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "mist-typhoon",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "molten-gold",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "nightshade-swallow",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "noah-redmoon",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "open-memories",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "orchid-dove",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "out-of-the-mist",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "out-of-the-mist",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "poison",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "protect",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "protect",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "purge",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "redirect",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "reflections-in-the-water",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "refresh",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "regress",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "remorse",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "root-armor",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "rose-fire-dancer",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "saria-guideman",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "seal",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "seal",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "secret-door",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "shadow-counter",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "shadow-hound",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "shadow-spirit",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "shifting-mist",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "silver-snake",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "silver-snake",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "sleeping-widow",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "sleight-of-hand",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "small-sacrifice",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "spiked-armor",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "steady-gaze",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "stormwind-sniper",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "stormwind-sniper",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "strange-copy",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "strengthen",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "strengthen",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "summon-blood-puppet",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "summon-butterfly-monk",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "summon-dread-wraith",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "summon-false-demon",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "summon-frostback-bear",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "summon-gilder",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "summon-gilder",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "summon-ice-golem",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "summon-iron-rhino",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "summon-masked-wolf",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "summon-mist-spirit",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "summon-nightshade-swallow",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "summon-orchid-dove",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "summon-shadow-hound",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "summon-shadow-spirit",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "summon-silver-snake",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "summon-silver-snake",
+        "dice_code": "natural"
+    },
+    {
+        "card_code": "summon-sleeping-widows",
+        "dice_code": "ceremonial"
+    },
+    {
+        "card_code": "summon-three-eyed-owl",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "sympathy-pain",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "three-eyed-owl",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "to-shadows",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "transfer",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "undying-heart",
+        "dice_code": "charm"
+    },
+    {
+        "card_code": "vanish",
+        "dice_code": "illusion"
+    },
+    {
+        "card_code": "victoria-glassfire",
+        "dice_code": "illusion"
+    }
+]
