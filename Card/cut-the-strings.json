@@ -3,7 +3,7 @@
         "attack": null,
         "attack_mod": null,
         "battlefield": null,
-        "code": "cut-the-string",
+        "code": "cut-the-strings",
         "conjuration_limit": null,
         "cost": "[main-action]",
         "is_conjured": false,
@@ -17,12 +17,12 @@
         "life": null,
         "life_mod": null,
         "lifepool": null,
-        "name": "Cut the String",
+        "name": "Cut the Strings",
         "placement": "Spellboard",
         "recover": null,
         "recover_mod": null,
         "spellboard": null,
-        "text": "[side-action] [exhaustion] 1[ceremonial-class] 1[basic] Deal 2 damage to a unit you control. If you do, you may discard a target alteration spell.",
+        "text": "<i>[side-action] [exhaustion] 1[ceremonial-class] 1[basic]</i>: Deal 2 damage to a unit you control. If you do, you may discard a target alteration spell.",
         "type": "Ready Spell"
     }
 ]
