@@ -22,7 +22,7 @@
         "recover": null,
         "recover_mod": null,
         "spellboard": null,
-        "text": "<i>[side-action] [exhaustion] 1[illusion-class] 1[basic]<\/i>: Place a Masked Wolf conjuration onto your battlefield.\n<b>Focus 1<\/b>: You may change the activation cost of this ability to [side-action] [exhaustion] 1[illusion-power].",
+        "text": "<i>[side-action] [exhaustion] 1[illusion-class] 1[basic]<\/i>: Place a Masked Wolf conjuration onto your battlefield.\n<b>Focus 1<\/b>: You may change the activation cost of this ability to <i>[side-action] [exhaustion] 1[illusion-power]</i>.",
         "type": "Ready Spell"
     }
 ]

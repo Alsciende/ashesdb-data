@@ -22,7 +22,7 @@
         "recover": null,
         "recover_mod": null,
         "spellboard": 4,
-        "text": "Heart's Pull: [side-action] [exhaustion] 1[charm-class]: You may draw 1 card. If you do, you may choose a target player to discard 1 card off the top of their draw pile.",
+        "text": "Heart's Pull: <i>[side-action] [exhaustion] 1[charm-class]</i>: You may draw 1 card. If you do, you may choose a target player to discard 1 card off the top of their draw pile.",
         "type": "Phoenixborn"
     }
 ]

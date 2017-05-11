@@ -22,7 +22,7 @@
         "recover": null,
         "recover_mod": null,
         "spellboard": null,
-        "text": "<i>[side-action] [exhaustion] 1[illusion-class]<\/i>: Choose a target unit to gain the following ability for the remainder of this turn: [Illusion: If this unit receives damage as a result of a unit's attack or counter, destroy this unit].",
+        "text": "<i>[side-action] [exhaustion] 1[illusion-class]<\/i>: Choose a target unit to gain the following ability for the remainder of this turn:\n[inexhaustible] <b>Illusion</b>: If this unit receives damage as a result of a unit's attack or counter, destroy this unit.",
         "type": "Ready Spell"
     }
 ]

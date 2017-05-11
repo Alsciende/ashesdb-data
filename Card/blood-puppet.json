@@ -22,7 +22,7 @@
         "recover": 0,
         "recover_mod": null,
         "spellboard": null,
-        "text": "<b>Cursed 1<\/b>: At the end of each round, place 1 wound token on your Phoenixborn.\n<b>Self Inflict 1<\/b>: [side-action] 1[basic] Deal 1 damage to this unit.",
+        "text": "<b>Cursed 1<\/b>: At the end of each round, place 1 wound token on your Phoenixborn.\n<b>Self Inflict 1<\/b>: <i>[side-action] 1[basic]</i>: Deal 1 damage to this unit.",
         "type": "Conjuration"
     }
 ]

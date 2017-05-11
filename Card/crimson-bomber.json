@@ -22,7 +22,7 @@
         "recover": 0,
         "recover_mod": null,
         "spellboard": null,
-        "text": "<b>Detonate 3<\/b>: [side-action] Destroy this unit to place 1 wound token on up to 3 target units.",
+        "text": "<b>Detonate 3<\/b>: <i>[side-action]</i>: Destroy this unit to place 1 wound token on up to 3 target units.",
         "type": "Ally"
     }
 ]

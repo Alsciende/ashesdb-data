@@ -22,7 +22,7 @@
         "recover": null,
         "recover_mod": null,
         "spellboard": null,
-        "text": "<i>[main-action] [exhaustion] 1[charm-class]<\/i>: Place an Orchid Dove conjuration onto your battlefield.\n<b>Focus 1<\/b>: You may change the activation cost of this spell to [main-action] [exhaustion] 1[basic]\n<b>Focus 2<\/b>: You may deal 1 damage to a target player's Phoenixborn if they do not have any cards in their draw pile.",
+        "text": "<i>[main-action] [exhaustion] 1[charm-class]<\/i>: Place an Orchid Dove conjuration onto your battlefield.\n<b>Focus 1<\/b>: You may change the activation cost of this spell to <i>[main-action] [exhaustion] 1[basic]</i>.\n<b>Focus 2<\/b>: You may deal 1 damage to a target player's Phoenixborn if they do not have any cards in their draw pile.",
         "type": "Ready Spell"
     }
 ]

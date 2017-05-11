@@ -22,7 +22,7 @@
         "recover": null,
         "recover_mod": null,
         "spellboard": null,
-        "text": "[main-action] [exhaustion] 2[basic] Place a Blue Jaguar conjuration onto your battlefield.",
+        "text": "<i>[main-action] [exhaustion] 2[basic]</i>: Place a Blue Jaguar conjuration onto your battlefield.",
         "type": "Ready Spell"
     }
 ]
